@@ -17,7 +17,7 @@ React · Node.js · TypeScript · Databases · AI/RAG systems
 
 ## 👨‍💻 About
 
-I'm a Software Engineer at **WeForce Pvt Ltd**, building enterprise ERP applications across CRM, Accounting, Procurement and Inventory Management. My day-to-day stack is **React, TypeScript, Node.js and MongoDB**.
+I'm a Software Engineer building full-stack web applications. My day-to-day stack is **React, TypeScript, Node.js and MongoDB**.
 
 Outside work I build developer tooling, document-retrieval (RAG) systems and self-hosted infrastructure. I like problems where the boring parts decide whether software is trustworthy: data models, validation, background jobs, access control, tests and deployment.
 
@@ -144,13 +144,8 @@ A complete server-rendered store with payments and admin reporting.
 
 ## 💼 Experience
 
-| Role | Where | When |
-|---|---|---|
-| **Software Engineer** | WeForce Pvt Ltd (Remote) | Dec 2025 – present |
-| **Full Stack Developer Trainee** | Brototype, Kochi | Aug 2024 – Nov 2025 |
-
-- **WeForce:** React interfaces wired to REST services, business workflows, form validation, reusable components and database operations across CRM, Accounting, Procurement and Inventory modules. I also investigate issues across the UI, API and database layers, and take part in testing and code review. The work is proprietary, so none of it is public.
-- **Brototype:** MERN program focused on building and deploying full-stack applications. Several projects above started here.
+**Full Stack Developer Trainee, Brototype** (Kochi, Aug 2024 – Nov 2025)
+MERN program focused on building and deploying full-stack applications. Several projects above started here.
 
 ## 🎯 What I'm working toward
 
